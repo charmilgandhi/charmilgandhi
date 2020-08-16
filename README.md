@@ -4,6 +4,8 @@ I'm Charmil, a student at **School of Engineering & Applied Science, Ahmedabad U
 
 I have previously worked as Web Developer in Gujarat State Fertilizers & Chemicals ltd. 
 
+Vist my website: <a href="https://charmilgandhi.github.io/#"><img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/www.svg" width="30" height="30" /></a>
+
 ### Connect With Me
 <a href="https://www.facebook.com/19pAiN98/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -14,6 +16,7 @@ I have previously worked as Web Developer in Gujarat State Fertilizers & Chemica
 <a href="https://www.instagram.com/charmil._.gandhi/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+</br>
 
 ### My skills in programming <img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/Developer.gif" width="50" height="40" /> 
 - C / C++ Programming and Problem Solving
