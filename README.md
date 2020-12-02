@@ -2,7 +2,7 @@
 
 I'm Charmil, a student at **School of Engineering & Applied Science, Ahmedabad University**. I am interested in Cyber Security and development fields using programming languages such as **Python**, **JavaScript** and it's frameworks like **NodeJS**, **ReactJS** and **React-Native**. See my works and projects in Repositories section on [Github](https://github.com/charmilgandhi?tab=repositories).
 
-I have previously worked as Web Developer in Gujarat State Fertilizers & Chemicals ltd. 
+I have previously worked as Web Developer in Gujarat State Fertilizers & Chemicals ltd.
 
 Vist my website: <a href="https://charmilgandhi.github.io/#"><img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/www.svg" width="30" height="30" /></a>
 
@@ -18,7 +18,7 @@ Vist my website: <a href="https://charmilgandhi.github.io/#"><img src="https://g
 </a>
 </br>
 
-### My skills in programming <img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/Developer.gif" width="50" height="40" /> 
+### My skills in programming <img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/Developer.gif" width="50" height="40" />
 - C / C++ Programming and Problem Solving
 - C# & Game Development in Unity 3D
 - Web Development using HTML5, Cascading StyleSheets (CSS3), JavaScript, ReactJS
@@ -41,9 +41,8 @@ Vist my website: <a href="https://charmilgandhi.github.io/#"><img src="https://g
 <br />
 
 ### Organization
-<img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/gsfc-ltd.png" width="60" height="60" /> 
+<img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/gsfc-ltd.png" width="60" height="60" />
+<img src="C:\Users\DELL\Desktop\Programming\charmilgandhi\media\nestle.jpg" width="60" height="60"/>
 
 ### Github Stats
 [![Charmil's github stats](https://github-readme-stats.vercel.app/api?username=charmilgandhi)](https://github.com/charmilgandhi/github-readme-stats)
-
-
