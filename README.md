@@ -3,6 +3,7 @@
 I'm Charmil, a student at **School of Engineering & Applied Science, Ahmedabad University**. I am interested in Cyber Security and development fields using programming languages such as **Python**, **JavaScript** and it's frameworks like **NodeJS**, **ReactJS** and **React-Native**. See my works and projects in Repositories section on [Github](https://github.com/charmilgandhi?tab=repositories).
 
 I have previously worked as Web Developer in Gujarat State Fertilizers & Chemicals ltd.
+I have been selected for Nesternship - Nestle India Intership program.
 
 Vist my website: <a href="https://charmilgandhi.github.io/#"><img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/www.svg" width="30" height="30" /></a>
 
