@@ -1,3 +1,4 @@
+<link href="style.css" rel="stylesheet"></link>
 # Hi there, I'm Charmil - Secret Unlocked..!!
 
 I'm Charmil, a student at **School of Engineering & Applied Science, Ahmedabad University**. I am interested in Cyber Security and development fields using programming languages such as **Python**, **JavaScript** and it's frameworks like **NodeJS**, **ReactJS** and **React-Native**. See my works and projects in Repositories section on [Github](https://github.com/charmilgandhi?tab=repositories).
@@ -9,13 +10,13 @@ Vist my website: <a href="https://charmilgandhi.github.io/#"><img src="https://g
 
 ### Connect With Me
 <a href="https://www.facebook.com/19pAiN98/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="fill:blue"/>
+  <img id="social-icon" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/charmil-gandhi-b12783149/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img id="social-icon" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://www.instagram.com/charmil._.gandhi/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img id="social-icon" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </br>
 
