@@ -47,7 +47,7 @@ Vist my website: <a href="https://charmilgandhi.github.io/#"><img src="https://g
 ### Organization
 <img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/gsfc-ltd.png" width="60" height="60" />
 <img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/nestle.jpg" width="60" height="60"/>
-<img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/AICs.jpg" width="60" height="60"/>
+<img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/AIC.jpg" width="60" height="60"/>
 
 ### Github Stats
 [![Charmil's github stats](https://github-readme-stats.vercel.app/api?username=charmilgandhi)](https://github.com/charmilgandhi/github-readme-stats)
