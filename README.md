@@ -5,6 +5,7 @@ I'm Charmil, a student at **School of Engineering & Applied Science, Ahmedabad U
 
 I have previously worked as Web Developer in Gujarat State Fertilizers & Chemicals ltd.
 I have been selected for Nesternship - Nestle India Intership program.
+I am currently an  UI/UX designer intern at Ask In City (AIC), Uttar-Pradesh.
 
 Vist my website: <a href="https://charmilgandhi.github.io/#"><img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/www.svg" width="30" height="30" /></a>
 
@@ -46,6 +47,7 @@ Vist my website: <a href="https://charmilgandhi.github.io/#"><img src="https://g
 ### Organization
 <img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/gsfc-ltd.png" width="60" height="60" />
 <img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/nestle.jpg" width="60" height="60"/>
+<img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/AICs.jpg" width="60" height="60"/>
 
 ### Github Stats
 [![Charmil's github stats](https://github-readme-stats.vercel.app/api?username=charmilgandhi)](https://github.com/charmilgandhi/github-readme-stats)
